@@ -1,8 +1,6 @@
 # Curso de TypeScript - B7Web
-<picture>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
-</picture>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" height="30">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" width="30" height="30">
 
 <p>Bem-vindo ao repositório do meu curso de TypeScript da B7Web! Aqui você encontrará recursos úteis para auxiliar no seu aprendizado dessa linguagem de programação poderosa.</p>
 
